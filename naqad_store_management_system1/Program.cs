@@ -7,7 +7,7 @@ using System.Windows.Forms;
 namespace naqad_store_management_system1
 {
     internal static class Program
-    {
+    { 
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
